@@ -24,4 +24,4 @@ I created a Power BI dashboard to analyze the 2017 Uttar Pradesh election. I col
 # Dashboard
 <img width="579" alt="Screenshot 2023-09-18 230603" src="https://github.com/Priyans223/Power-BI-Uttar-Pradesh-Assembly-Elections-2017-Analysis-Dashboard/assets/139046513/e042ffcf-60b4-4e1c-8c79-bc4334e5667c">
 
-Thank you for exploring our dashboard.
+Thank you for exploring the dashboard.
